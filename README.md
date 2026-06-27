@@ -13,7 +13,6 @@ A responsive Amazon homepage clone built using HTML and CSS.
 - HTML5
 - CSS3
 - Font Awesome
-=======
+
 # amazon-clone
 A responsive Amazon homepage clone built using HTML and CSS.
->>>>>>> 2aa715e85c4ce0dd6fd3021687602b2dc6f6dd92
